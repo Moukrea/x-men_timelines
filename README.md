@@ -4,6 +4,10 @@ Unofficial graphical representation of the whole X-Men universe and its timeline
 
 Made using FlexiSign and Adobe Illustrator
 
+## Therories / Details
+
+Please have a look at [X-Men Timelines assumptions](assumptions.md) and [A word on time travel logic](time_travel_logic.md) for more informations
+
 ## Credits
 
 Marvel Fandom for timelines/realities numbering system among other informations

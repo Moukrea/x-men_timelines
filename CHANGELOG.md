@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.3 - 2022-07-22
+
+### Changed
+- Updated documentations to be more accessible
+- Updated .FS, .ai, .pdf and .png files taking into account the sub-numbering system
+
 ## 1.0.2 - 2022-07-22
 
 ### Changed

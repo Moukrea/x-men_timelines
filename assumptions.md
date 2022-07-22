@@ -16,7 +16,7 @@ Why did I place Deadpool 2 in this timeline while its events are [stated has hap
 
 We also know [Cable reality is Earth-66250](https://marvel.fandom.com/wiki/Earth-66250) way in the future, speculated in 2068 (or something around this year, as Cable speaks about "50 years from now" and Deadpool 2 is happening in 2018).
 
-If we take in consideration the Quantum Realm time travel logic as seen in Avengers: Endgame (also as the one from DoFP, albeit it’s not a physical time travel), here’s what would happen from Cable’s perspective:
+If we take [into consideration the Quantum Realm time travel logic as seen in Avengers: Endgame (also as the one from DoFP, albeit it’s not a physical time travel)](time_travel_logic.md), here’s what would happen from Cable’s perspective:
 
 | Year | Reality | |
 | ---- | ---- | --- |

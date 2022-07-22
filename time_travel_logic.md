@@ -47,12 +47,14 @@ This issue could be adressed with a sub-numbered system though:
   <summary>The Loki's (TV Show) sub-numbering system (click to reveal)</summary>
   
 Loki (the TV show, not the character) mentions Earth-616 several times on screen during the show. The TVA seems to be OK with time travel as long as there's no "Nexus" event as they call it, an event where the resulting timeline is drastically different from the one they intend (their "Sacred Timeline"). But we're hinted (albeit very subtly) that there's multiple Earth-616 timeline running along, resulting of various events / time travels such as the ones from Avengers: Endgame.  
-Want proof ? We can see during one of their time travels that they're actually on "Earth-616.432" timeline. We could then assume there's at least 432 alternate timelines caused by multiple events, which could have been erased by the TVA because they're just way too diverging from their Sacred Timeline as well as simply running alongside Earth-616!  
-Avengers: Endgame events could have caused several of those, including the "going back to present" multiple alternate timelines
+Want proof ? We can see during one of their time travels that they're actually on "Earth-616.432" timeline. We could then assume there's at least 432 alternate timelines caused by multiple events, which could partly have been erased by the TVA because they're just way too diverging from their Sacred Timeline as well as simply running alongside Earth-616!  
+Avengers: Endgame events could have caused several of those, including the "going back to present" multiple alternate timelines _(however, we're hinted that going back to the exact moment we left a timeline doesn't make it branch to a new timeline in the very same movie)_.
   
 </details>
 
-Taking all of this into consideration, let's make our simple time travel logic again:
+Taking all of this into consideration, sub-numbered timelines would be the ones with no major changes as they can co-exist alongside and renamed timelines would be the ones with major changes (ie. Hitler being killed as a baby, Cable changing the past where Firefist doesn't go out of control killing everyone, etc...)
+
+Now let's revisit our time travel logic exemple again:
 
 | Timeline | |
 | ---- | ---- |
@@ -66,5 +68,6 @@ Taking all of this into consideration, let's make our simple time travel logic a
 | A.002 | World War II still hapenned much like on timeline **A** |
 | - | On timeline **A** my person doesn't exist anymore, part of its history includes me leaving it for another timeline |
 | - | Timeline **A.002** has a part of its history where a guy left its timeline, then came back |
+| - | Assuming we go back to the "exact" same moment on timeline **A** as the moment we left, the timeline shouldn't branch... but how could you get back to the very same moment, time is infinitely precise, which we are not. |
 
-This is much, much more complicated so we'll cut some corners, but this justify most of the time travel shenanigans of all Marvel creations.
+This is much, much more complicated so we'll cut some corners by not branching timeline going back to our present (**A** not becoming **A.002**), but this justify most of the time travel shenanigans of all Marvel creations.
